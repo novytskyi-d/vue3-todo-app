@@ -1,6 +1,6 @@
-# vue3-todo-app
+# DEMO
 
-This template should help get you started developing with Vue 3 in Vite.
+[DEMO](https://novytskyi-d.github.io/vue3-todo-app/)
 
 ## Recommended IDE Setup
 
